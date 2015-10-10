@@ -1,0 +1,1 @@
+C:\Users\Jim\Documents\Unity Games\2D Roguelike\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
